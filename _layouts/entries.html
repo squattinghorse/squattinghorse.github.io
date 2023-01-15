@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1>mushroom database</h1>
+<section>
+	{{ content }}
+</section>
+<section>
+	<ol>
+	{% for entry in site.pages %}
+		{% if entry.tags contains page.filter_by_tag %}
+	<li>
+		<a href="{{ entry.url }}">
+			<h2>{{ entry.latin_name }} <span>{{ entry.friendly_names | join: ', ' }}</span></h2>
+		</a>
+	</li>
+		{% endif %}
+	{% endfor %}
+	</ol>
+</section>

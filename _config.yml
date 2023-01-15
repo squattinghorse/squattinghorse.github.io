@@ -1,0 +1,26 @@
+title: neem in the forest
+
+theme: null
+
+markdown: kramdown
+kramdown:
+  smart_quotes:
+    - apos
+    - apos
+    - quot
+    - quot
+  typographic_symbols:
+    hellip: '...'
+    mdash: '-'
+    ndash: '-'
+    laquo: '<<'
+    raquo: '>>'
+
+  parse_block_html: true
+  parse_span_html: true
+
+defaults:
+  - scope:
+      path: mushrooms
+    values:
+      layout: entry

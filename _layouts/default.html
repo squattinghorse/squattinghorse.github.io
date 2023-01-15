@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>{{ site.title }}</title>
+		<link rel="stylesheet" type="text/css" href="{{ '/assets/style.css' | relative_path }}" />
+	</head>
+	<body>
+		<header>
+			<nav>
+				<ul>
+					{% for page in site.pages -%}
+						{% if page.show_in_menu %}
+					<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+						{%- endif -%}
+					{%- endfor %}
+					<li><a href="https://www.instagram.com/neemintheforest">instagram</a></li>
+				</ul>
+			</nav>
+		</header>
+		<main>
+			{{ content }}
+		</main>
+	</body>
+</html>

@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{%- capture asset_dir = -%}
+{{ '/assets' | relative_path }}/mushrooms/{{ page.name | replace: '.md' }}
+{%- endcapture -%}
+<h1>
+	{{ page.latin_name }}<br />
+	<span>{{ page.friendly_names | join: ', '}}</span>
+</h1>
+<section id="images">
+	<img src="{{ asset_dir }}/diagram.png" />
+	<div>
+		{%- for file in site.static_files %}
+			{%- if file.path contains asset_dir -%}
+				{%- if file.path contains '/gallery/' %}
+		<img src="{{ file.path }}" />
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor %}
+	</div>
+</section>
+<section id="stats">
+	<ul>
+		{% for stat in page.stats -%}
+		<li><span>{{ stat[0] }}</span>{{ stat[1] }}</li>
+		{% endfor %}
+	</ul>
+</section>
+<section>
+	{{ content }}
+</section>
+<section id="links">
+	<ul>
+		{% for link in page.links -%}
+		<li><a href="{{ link.url }}">{{ link.text }}</a></li>
+		{% endfor %}
+	</ul>
+</section>
