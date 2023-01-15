@@ -1,5 +1,5 @@
 ---
-latin_name: imleria_badia
+latin_name: imleria badia
 
 friendly_names:
  - bay bolete
