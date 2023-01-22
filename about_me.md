@@ -1,3 +1,9 @@
+---
+title: about me
+show_in_menu: true
+
+layout: entry
+
 latin_name: neem in silva
 
 friendly_names:
