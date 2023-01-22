@@ -46,17 +46,23 @@ the bay bolete is one of the first mushrooms i saw and recorded in early october
 as mentioned before, they are a very easy mushroom to identify as a novice forager. their characteristics can't be mistaken for anything poisonous and the closest looking bolete relative is the widely popular *boletus edulis* (penny bun, cep, porcini). according to some resources it is inferior in taste to the penny bun, but i think i'll make that decision when i taste it. 
 
 ## characteristics
+
 ### cap
-- the cap is often convex and will flatten when more mature. it has a smooth dark, 'bay' brown cap - referring to its chestnut colour. in some of the pictures above, the cap looks slimy and that can occur when it becomes wet
+the cap is often convex and will flatten when more mature. it has a smooth dark, 'bay' brown cap - referring to its chestnut colour. in some of the pictures above, the cap looks slimy and that can occur when it becomes wet
+
 ### pores
-- the pores on the underside of the cap can be cream to pale yellow, but change and stain to a light blue/ olive green when bruised. the pores are large and circular and become angular when more mature
+the pores on the underside of the cap can be cream to pale yellow, but change and stain to a light blue/ olive green when bruised. the pores are large and circular and become angular when more mature
+
 ### stem
-- one of the more defining features is the stem, which is a pale brown. the stem has a net pattern of brown ridges going vertically down the stem on a pale background
+one of the more defining features is the stem, which is a pale brown. the stem has a net pattern of brown ridges going vertically down the stem on a pale background
+
 ### flesh
-- the flesh is white/pale yellow which will also stain pale blue/ olive green when cut or bruised. there is a beginners rule to follow, “red and blue makes you spew”. this translates as avoid any boletes with red on the stem, pores or cap and any bolete whose flesh turns rapidly blue when cut. it does mean you might miss out on some wonderful bolete edibles but it will mean you are 100% safe
+the flesh is white/pale yellow which will also stain pale blue/ olive green when cut or bruised. there is a beginners rule to follow, “red and blue makes you spew”. this translates as avoid any boletes with red on the stem, pores or cap and any bolete whose flesh turns rapidly blue when cut. it does mean you might miss out on some wonderful bolete edibles but it will mean you are 100% safe
+
 ### spore print
-- spore print is green/brown
+spore print is green/brown
+
 ### interesting information
-- they are a particularly good fine as they have the advantage of being less frequently infested with maggots
+they are a particularly good fine as they have the advantage of being less frequently infested with maggots
 
 they are more abundant in the late summer and throughout the autumn (july-november) and i had just plucked the courage up to eat wild mushrooms when the season had ended. this year i can proudly say i will be trying the bay bolete and hopefully can make some very tasty food with them too.
